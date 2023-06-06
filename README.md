@@ -19,10 +19,10 @@ This is a package manager for Mac command line programs. It knows how to install
 
     ![](img/homebrew-copy.png)
 
- - Paste it into your `iterm` window (and hit Enter)
- - Accept the default answer at any prompts
- - Follow any instructions the script gives you
- - Close your `iterm` window (you have to do this to make sure the Unix shell running in the terminal knows about new stuff)
+- Paste it into your `iterm` window (and hit Enter)
+- Accept the default answer at any prompts
+- Follow any instructions the script gives you
+- Close your `iterm` window (you have to do this to make sure the Unix shell running in the terminal knows about new stuff)
 
 You now have a new command-line program called `brew`.
 
@@ -35,9 +35,10 @@ This is a Unix environment management doohickie that will make your life better 
 
     ![](img/oh-my-zsh-copy.png)
 
- - Accept the default answer at any prompts
- - Follow any instructions the script gives you
- - Close your `iterm` window 
+- Paste it into your `iterm` window (and hit Enter)
+- Accept the default answer at any prompts
+- Follow any instructions the script gives you
+- Close your `iterm` window 
 
 ## Install VisualStudio Code
 
