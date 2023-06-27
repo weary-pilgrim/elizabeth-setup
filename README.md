@@ -58,3 +58,20 @@ This is your code editor/integrated development environment (IDE).
 - If you have any `iterm` windows open, close them
 
 You can launch code as you did above or by typing `code .` on the command line.
+
+## Install VSCode Plugins
+
+Look at [this article](https://learnpython.com/blog/visual-studio-code-extensions-for-python/) and install any of his recommendations that look interesting to you.
+
+## Learning Python Tutorials
+
+- [This article](https://www.intelligent.com/best-online-courses/python-classes/) rates several Python courses. Some are free some are not. [This bootcamp](https://www.udemy.com/course/complete-python-bootcamp) is from Udemy which is a vendor I've used before. It costs money. :cry:
+- [This](https://www.pluralsight.com/search?q=python) is a listing of Python offerings from PluralSight. We use their stuff at work, and they're usually good courses. PluralSight is a subscription service. If you sign up, you pay $29/month for lots or courses or $45/month for every course in their catalog.
+
+## Python Package Management Tutorial
+
+- [This](https://packaging.python.org/en/latest/tutorials/managing-dependencies/) is the official Python docs on dependency management. It's okay if you kind of know what you're doing.
+    - It gives a [list of other dependency management tools](https://packaging.python.org/en/latest/tutorials/managing-dependencies/#other-tools-for-application-dependency-management) that looks like it could useful, depending on how your projects are set up.
+- [This](https://www.datacamp.com/tutorial/pip-python-package-manager) is a free, basic pip tutorial
+- [This Udemy course](https://www.udemy.com/course/python-package) shows you how to build packages. If you really want to understand how package management works, something like this is useful.
+- [This course from PluralSight](https://www.pluralsight.com/courses/managing-python-packages-virtual-environments) looks spot on for what you need to learn here.
