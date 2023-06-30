@@ -40,6 +40,14 @@ This is a Unix environment management doohickie that will make your life better 
 - Follow any instructions the script gives you
 - Close your `iterm` window 
 
+## Install Python :) 
+
+Run this command (in the command line):
+
+```zsh
+brew install python3
+```
+
 ## Install VisualStudio Code
 
 This is your code editor/integrated development environment (IDE).
