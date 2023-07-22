@@ -59,6 +59,36 @@ This is your code editor/integrated development environment (IDE).
 
 You can launch code as you did above or by typing `code .` on the command line.
 
+## Update your `.zshrc`
+
+- In an `iterm` window, run this command to open your home directory in `Visual Studio Code`
+
+  ```zsh
+  code ~/
+  ```
+
+- Find the file `.zshrc` in the file browser on the left-hand side of the screen and open it by double-clicking
+
+- Set your `ZSH_THEME` to `af-magic`. This setting will be at or near line 11 (assuming you're using the same version of Oh My Zsh! I'm using and that you haven't inserted stuff at the top of your `.zshrc`):
+
+  ```zsh
+  ZSH_THEME="af-magic"
+  ```
+
+- Set your `plugins` as follows. This setting will be at or near line 73:
+
+  ```zsh
+  plugins=(git iterm2 pip pyenv pylint python)
+  ```
+
+- At the very bottom of the file, add the following line
+
+  ```zsh
+  PATH="$PATH:$(brew --prefix python)/libexec/bin"
+  ```
+
+- If you have any `iterm` windows open, close them
+
 ## Install VSCode Plugins
 
 Look at [this article](https://learnpython.com/blog/visual-studio-code-extensions-for-python/) and install any of his recommendations that look interesting to you.
