@@ -53,6 +53,22 @@ Run this command (in the command line):
 brew install python3
 ```
 
+## Install GitHub CLI
+
+Run the following command to install GitHub:
+
+```zsh
+brew install gh
+```
+
+Run the following command to log into GitHub:
+
+```zsh
+gh auth login
+```
+
+Accept all the defaults when prompted.
+
 ## Install VisualStudio Code
 
 This is your code editor/integrated development environment (IDE).
