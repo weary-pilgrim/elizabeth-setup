@@ -5,6 +5,11 @@
 This is a Terminal replacement.
 
 - [Download it](https://iterm2.com/) and install it
+- Install Shell integration
+  - From the iTerm menu, select "Settings"
+  - Go to the "Profiles" tab
+  - In the "Command" section check the "Load shell integration automatically" box:
+    ![](img/shell-integration.png)
 - Never open the built-in Terminal program again. It stinks
 - Skim the highlights section and the general section in the docs. (You might want to look at them again later after you have used it for a while)
 
@@ -47,6 +52,22 @@ Run this command (in the command line):
 ```zsh
 brew install python3
 ```
+
+## Install GitHub CLI
+
+Run the following command to install GitHub:
+
+```zsh
+brew install gh
+```
+
+Run the following command to log into GitHub:
+
+```zsh
+gh auth login
+```
+
+Accept all the defaults when prompted.
 
 ## Install VisualStudio Code
 
